@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dextroxe aka Dashmat Hembram
 - 👀 I’m interested in Learning and most importantly doing funny stuff
-- 🌱 I’m currently learning ML and web dev
+- 🌱 I’m currently learning ML, web dev & discord bot deployment 
 - 📫 How to reach me mail me in dashmathembram99@gmail.com 
 
 <!---
