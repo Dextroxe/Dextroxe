@@ -11,8 +11,9 @@ Never gonna let you down, Never gonna give you up!!
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dextroxe&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dextroxe&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dextroxe&theme=gruvbox&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dextroxe&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 
 
 ## 🏆Achievements
