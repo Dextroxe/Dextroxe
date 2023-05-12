@@ -1,7 +1,9 @@
-[![](https://visitcount.itsvg.in/api?id=dextroxe&icon=5&color=0)](https://visitcount.itsvg.in)
+#It's Dashmat Hembram CX
+Never gonna let you down, Never gonna give you up!!
+
 # 💫 About Me:
 🔭 I’m currently working on web projects and Discord Bots<br>👯 I’m looking to collaborate on game design and website testing<br>🤝 I’m looking for help with solidity<br>🌱 I’m currently learning web3 and blender 3d modeling<br>💬 Ask me about web projects, 3d modeling and video games<br>⚡ Fun fact ~ workaholic but still not tired
-
+[![](https://visitcount.itsvg.in/api?id=dextroxe&icon=5&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/reRVGfkjfk) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dashmat_kun) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dashmat-hembram) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/dashmathembram99) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/DEXTROXE) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCrMmjpL4wPnVNr_tHDgEAcg)
