@@ -14,7 +14,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dextroxe&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
-![![@dextrose's Holopin board](https://holopin.me/dextrose)](https://holopin.io/@dextrose)
+[![@dextrose's Holopin board](https://holopin.me/dextrose)](https://holopin.io/@dextrose)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
