@@ -3,6 +3,7 @@ Never gonna let you down, Never gonna give you up!!
 
 # 💫 About Me:
 🔭 I’m currently working on web projects and Discord Bots<br>👯 I’m looking to collaborate on game design and website testing<br>🤝 I’m looking for help with solidity<br>🌱 I’m currently learning web3 and blender 3d modeling<br>💬 Ask me about web projects, 3d modeling and video games<br>⚡ Fun fact ~ workaholic but still not tired
+
 [![](https://visitcount.itsvg.in/api?id=dextroxe&icon=5&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
